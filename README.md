@@ -1,5 +1,4 @@
 # SoccerTweetAnalysis
-This is an assignment from "Big Data Integration and Processing" Course from Coursera. The "Big Data Integration and Processing" is the 3rd course for the Big Data Specilization. 
 
 As the Sports Analyst, you are very interested in reporting on the countries with the most popularity in Twitter. So a good way to approach this problem would be to find which countries were mentioned the most in the tweets in your dataset and to analyze what words are being used the most in these tweets.
 
